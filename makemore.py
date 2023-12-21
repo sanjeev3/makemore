@@ -12,6 +12,7 @@ Changes from minGPT:
   difference at the scale that we operate on here.
 """
 
+' My changes'
 import os
 import sys
 import time
