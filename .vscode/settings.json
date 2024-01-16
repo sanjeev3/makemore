@@ -1,5 +1,14 @@
 {
     "cSpell.words": [
         "stoi"
+    ],
+    "dotnet-interactive.notebookParserArgs": [
+        
+        "{dotnet_path}",
+        "tool",
+        "run",
+        "dotnet-interactive",
+        "--",
+        "notebook-parser"
     ]
 }
